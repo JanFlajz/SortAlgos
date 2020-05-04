@@ -1,0 +1,13 @@
+C:\Users\major\source\repos\SellectSort\SellectSort\bin\Debug\netcoreapp3.1\SellectSort.exe
+C:\Users\major\source\repos\SellectSort\SellectSort\bin\Debug\netcoreapp3.1\SellectSort.deps.json
+C:\Users\major\source\repos\SellectSort\SellectSort\bin\Debug\netcoreapp3.1\SellectSort.runtimeconfig.json
+C:\Users\major\source\repos\SellectSort\SellectSort\bin\Debug\netcoreapp3.1\SellectSort.runtimeconfig.dev.json
+C:\Users\major\source\repos\SellectSort\SellectSort\bin\Debug\netcoreapp3.1\SellectSort.dll
+C:\Users\major\source\repos\SellectSort\SellectSort\bin\Debug\netcoreapp3.1\SellectSort.pdb
+C:\Users\major\source\repos\SellectSort\SellectSort\obj\Debug\netcoreapp3.1\SellectSort.csprojAssemblyReference.cache
+C:\Users\major\source\repos\SellectSort\SellectSort\obj\Debug\netcoreapp3.1\SellectSort.csproj.CoreCompileInputs.cache
+C:\Users\major\source\repos\SellectSort\SellectSort\obj\Debug\netcoreapp3.1\SellectSort.AssemblyInfoInputs.cache
+C:\Users\major\source\repos\SellectSort\SellectSort\obj\Debug\netcoreapp3.1\SellectSort.AssemblyInfo.cs
+C:\Users\major\source\repos\SellectSort\SellectSort\obj\Debug\netcoreapp3.1\SellectSort.dll
+C:\Users\major\source\repos\SellectSort\SellectSort\obj\Debug\netcoreapp3.1\SellectSort.pdb
+C:\Users\major\source\repos\SellectSort\SellectSort\obj\Debug\netcoreapp3.1\SellectSort.genruntimeconfig.cache
